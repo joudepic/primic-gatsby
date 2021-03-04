@@ -7,7 +7,6 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    "gatsby-plugin-sitemap",
     {
       resolve: '@prismicio/gatsby-source-prismic-graphql',
       options: {
